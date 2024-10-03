@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>S11D4 CRUD Operations</h1>
+      <h1>S11D4 CRUD Operations by WiT0724</h1>
       <div className="main-container">
         <div className="sideBar-container">
           <SideBar users={users} setUsers={setUsers} />
